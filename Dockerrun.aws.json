@@ -1,7 +1,7 @@
 {
     "AWSEBDockerrunVersion": "1",
     "Image": {
-        "Name": "rcalderan/allbooks:latest",
+        "Name": "rcalderan/ex1:latest",
         "Update": "true"
     },
     "Ports": [
